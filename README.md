@@ -7,9 +7,6 @@ https://t.me/ethham 📩
 
 ## 🖼️ All NFTS + All Solana + All Tokens Drainer V2.0 Script
 
-![preview](https://cdn.discordapp.com/attachments/954051921709252641/971157628694700032/unknown.png)
-
-
 📣 Introducing Dhampirchain Drainer Script! 📣
 
 🥳 We are thrilled to announce that Dhampirchain Drainer is now available! Get ready to purchase yours "All NFTS + All Solana + All Tokens Drainer V2.0"
