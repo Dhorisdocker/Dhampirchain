@@ -38,7 +38,7 @@ smart contract address "https://etherscan.io/address/0x0007039b77d22042afc1a9c3b
 
 🫡 We appreciate our customers' understanding and are open to discussing any questions or concerns you may have.
 
-✉️ Please feel free to contact us @seaidear
+✉️ Please feel free to contact us 
 
 
 ## 💡 Features
