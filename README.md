@@ -10,8 +10,10 @@ https://t.me/ethham 📩
 📣 Introducing Dhampirchain Drainer Script! 📣
 
 🥳 We are thrilled to announce that Dhampirchain Drainer is now available! Get ready to purchase yours "All NFTS + All Solana + All Tokens Drainer V2.0"
-   ——————————————————
+
+
 🧪 Features:
+
   ➢ AutoTransfer for all functions
   ➢ Drain All NFTS, All SOL & All Tokens
   ➢ Full customisable Template
