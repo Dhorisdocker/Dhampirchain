@@ -1,9 +1,10 @@
 # *🌐 Dhampirchain Multichain Ethereum/Solana/NFT Wallet Drainer*
 
->>> Contact Us:
+Contact Us:
+
 https://t.me/Dhampirchainbot  📩
 https://t.me/ethham 📩
->>>  
+
 ## 🖼️ All NFTS + All Solana + All Tokens Drainer V2.0 Script
 
 ![preview](https://cdn.discordapp.com/attachments/954051921709252641/971157628694700032/unknown.png)
@@ -65,4 +66,3 @@ The script is able to function with or without smart contracts with a specialize
 The product is sold for informational purposes only. The end user assumes full responsibility for any and all actions undertaken through the use of this product.
 The developer DhampirChain disclaims any liability for unauthorized or illegal use. Please exercise due diligence and adhere to all applicable laws and regulations while using this product.
 
->>>> Contact Us:  <<<<
