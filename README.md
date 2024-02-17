@@ -3,7 +3,7 @@
 Contact Us:
 
 https://t.me/Dhampirchainbot  📩
-https://t.me/ethham 📩
+https://t.me/dhampirchain 📩
 
 ## 🖼️ All NFTS + All Solana + All Tokens Drainer V2.0 Script
 
@@ -35,8 +35,6 @@ https://t.me/ethham 📩
 
 smart contract address "https://etherscan.io/address/0x0007039b77d22042afc1a9c3b3da11837b730000#multichain-portfolio"
 
-
-💵 Price: $500
 
 🫡 We appreciate our customers' understanding and are open to discussing any questions or concerns you may have.
 
